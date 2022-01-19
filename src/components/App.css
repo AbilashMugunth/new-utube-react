@@ -16,3 +16,9 @@
   font-size: 1.3rem;
   font-weight: 700;
 }
+
+.video-title {
+  margin-top: 1rem !important;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid #000;
+}
