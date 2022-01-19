@@ -34,6 +34,7 @@ class App extends React.Component {
   render() {
     return (
       <div className="ui container">
+        <h1 className="page-title">YOUTUBE</h1>
         <SearchBar proponFormSubmit={this.onTermSubmit} />
 
         <div className="ui grid video-content">

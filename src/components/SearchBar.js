@@ -22,6 +22,7 @@ class SearchBar extends React.Component {
                 value={this.state.term}
                 type="text"
                 onChange={this.onInputChange}
+                placeholder="Search videos here"
               />
             </div>
           </form>
